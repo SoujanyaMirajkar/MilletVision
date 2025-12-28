@@ -27,12 +27,11 @@ The motivation behind MilletVision is to use **Artificial Intelligence** to auto
 ---
 
 ## 🌾 Millets Covered
-- Finger Millet (Ragi)  
+- Sorghum Millet  
 - Pearl Millet (Bajra)  
-- Foxtail Millet  
+- Ragi Millet  
 - Little Millet  
-- Kodo Millet  
-- Barnyard Millet  
+- Buck-wheat Millet   
 
 ---
 
