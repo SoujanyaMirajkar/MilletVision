@@ -55,5 +55,3 @@ The motivation behind MilletVision is to use **Artificial Intelligence** to auto
 - Simple and user-friendly interface  
 
 
-cd MilletVision
-
